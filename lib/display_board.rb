@@ -5,5 +5,5 @@ def display_board(board)
   print "-----------\n"
   print " #{board[3]} | #{board[4]} | #{board[5]} \n"
   print "-----------\n"
-  print " #{board[0]} | #{board[0]} | #{board[6]} \n"
+  print " #{board[6]} | #{board[0]} | #{board[6]} \n"
 end
